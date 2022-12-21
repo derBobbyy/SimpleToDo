@@ -9,7 +9,7 @@ When they download and open the project they need to create a new database and a
 
 ## Download
 
-Download the standalone executable (`SimpleToDo.exe`) from the [last release](https://github.com/derBobbyy/SimpleToDo/releases/tag/V.1.0.0)
+Download the standalone executable (`SimpleToDo.exe`) from the [last release](https://github.com/derBobbyy/SimpleToDo/releases/latest)
 ## Preview
 
 ![App Screenshot](https://github.com/derBobbyy/SimpleToDo/blob/master/img/Preview2.png?raw=true)
