@@ -2,7 +2,8 @@
 # Simple ToDo
 
 
-
+⚠️ Important
+When they download and open the project they need to create a new database and assign it in code!
 
 
 
