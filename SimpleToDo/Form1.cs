@@ -21,7 +21,7 @@ namespace SimpleToDo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+		ListeLaden()
         }
 
         #region  Buttons 
